@@ -56,7 +56,7 @@
       "interstitial_looping_show_1": 270,
       "interstitial_status_1": true,
      
-      "interstitial_primary_2": "ADMOB-2",
+      "interstitial_primary_2": "APPLOVIN-MAX",
       "interstitial_secondary_2": "ADMOB-3",
       "interstitial_tertiary_2": "ADMOB-4",
       "interstitial_quaternary_2": "ADMOB-1",
@@ -68,7 +68,7 @@
       "interstitial_looping_show_2": 700,
       "interstitial_status_2": true,
     
-      "interstitial_primary_3": "ADMOB-3",
+      "interstitial_primary_3": "APPLOVIN-MAX",
       "interstitial_secondary_3": "ADMOB-4",
       "interstitial_tertiary_3": "ADMOB-2",
       "interstitial_quaternary_3": "ADMOB-1",
@@ -80,7 +80,7 @@
       "interstitial_looping_show_3": 10500,
       "interstitial_status_3": true,
     
-      "interstitial_primary_4": "ADMOB-4",
+      "interstitial_primary_4": "APPLOVIN-MAX",
       "interstitial_secondary_4": "ADMOB-3",
       "interstitial_tertiary_4": "ADMOB-2",
       "interstitial_quaternary_4": "ADMOB-1",
