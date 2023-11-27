@@ -27,6 +27,82 @@
       "status": "true"
     }
   ],
+  "craft3": [
+        {
+      "admob_app_open": "",
+      "admob_app_open_time_launch": "5",
+      "admob_app_open_status": false,
+      
+      "admob_1_interstitial": "ca-app-pub-3047929719621393/3632105822",
+      "admob_2_interstitial": "",
+      "admob_3_interstitial": "",
+      "admob_4_interstitial": "",
+      "fan_interstitial": "1966715527054430_1966716023721047",
+      "applovin_max_interstitial": "bb13d2839a93bc25",
+      "ironsource_interstitial": "",
+      "unity_ads_game_id": "",
+      "unity_ads_unit_interstitial": "Interstitial_Android",
+      "unity_ads_test_mode": false,
+      
+      "interstitial_primary_1": "ADMOB-1",
+      "interstitial_secondary_1": "ADMOB-4",
+      "interstitial_tertiary_1": "ADMOB-3",
+      "interstitial_quaternary_1": "ADMOB-2",
+      "interstitial_quinary_1": "FAN",
+      "interstitial_senary_1": "APPLOVIN-MAX",
+      "interstitial_septenary_1": "IRONSOURCE",
+      "interstitial_octonary_1": "UNITYADS",
+      "interstitial_once_show_1": 10,
+      "interstitial_looping_show_1": 270,
+      "interstitial_status_1": true,
+     
+      "interstitial_primary_2": "ADMOB-2",
+      "interstitial_secondary_2": "ADMOB-3",
+      "interstitial_tertiary_2": "ADMOB-4",
+      "interstitial_quaternary_2": "ADMOB-1",
+      "interstitial_quinary_2": "FAN",
+      "interstitial_senary_2": "APPLOVIN-MAX",
+      "interstitial_septenary_2": "IRONSOURCE",
+      "interstitial_octonary_2": "UNITYADS",
+      "interstitial_once_show_2": 150,
+      "interstitial_looping_show_2": 700,
+      "interstitial_status_2": true,
+    
+      "interstitial_primary_3": "ADMOB-3",
+      "interstitial_secondary_3": "ADMOB-4",
+      "interstitial_tertiary_3": "ADMOB-2",
+      "interstitial_quaternary_3": "ADMOB-1",
+      "interstitial_quinary_3": "FAN",
+      "interstitial_senary_3": "APPLOVIN-MAX",
+      "interstitial_septenary_3": "IRONSOURCE",
+      "interstitial_octonary_3": "UNITYADS",
+      "interstitial_once_show_3": 450,
+      "interstitial_looping_show_3": 10500,
+      "interstitial_status_3": true,
+    
+      "interstitial_primary_4": "ADMOB-4",
+      "interstitial_secondary_4": "ADMOB-3",
+      "interstitial_tertiary_4": "ADMOB-2",
+      "interstitial_quaternary_4": "ADMOB-1",
+      "interstitial_quinary_4": "FAN",
+      "interstitial_senary_4": "APPLOVIN-MAX",
+      "interstitial_septenary_4": "IRONSOURCE",
+      "interstitial_octonary_4": "UNITYADS",
+      "interstitial_once_show_4": 1050,
+      "interstitial_looping_show_4": 25000,
+      "interstitial_status_4": true,
+      
+      "promot_icon_app": "https://lh3.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=s256-rw",
+      "promot_name_app": "WA Messenger",
+      "promot_link_app": "https://play.google.com/store/apps/details?id=com.whatsapp",
+      "promot_more_app": "https://play.google.com/store/apps/developer?id=WhatsApp+Inc.",
+      "promot_time_launch": "5",
+      "promot_status": false,
+      
+      "status_offline_warning": false,
+      "status_redirect_app": false
+    }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
