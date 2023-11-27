@@ -53,7 +53,7 @@
       "interstitial_septenary_1": "IRONSOURCE",
       "interstitial_octonary_1": "UNITYADS",
       "interstitial_once_show_1": 10,
-      "interstitial_looping_show_1": 270,
+      "interstitial_looping_show_1": 90,
       "interstitial_status_1": true,
      
       "interstitial_primary_2": "APPLOVIN-MAX",
