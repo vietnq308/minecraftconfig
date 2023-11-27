@@ -27,7 +27,7 @@
       "status": "true"
     }
   ],
-  "craft3": [
+  "craft3": 
         {
       "admob_app_open": "",
       "admob_app_open_time_launch": "5",
@@ -102,7 +102,7 @@
       "status_offline_warning": false,
       "status_redirect_app": false
     }
-  ],
+  ,
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
