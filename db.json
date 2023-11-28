@@ -103,6 +103,12 @@
       "status_redirect_app": false
     }
   ,
+  "craft_max": 
+    {
+      "idMax": "bd8c2e6db12ec71f",
+      "repeat_time": "30",
+    }
+  ,
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
