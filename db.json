@@ -106,7 +106,7 @@
   "craft_max": 
     {
       "idMax": "bd8c2e6db12ec71f",
-      "repeat_time": "30",
+      "repeat_time": 30
     }
   ,
   "comments": [
