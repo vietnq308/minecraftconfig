@@ -101,6 +101,11 @@
       
       "status_offline_warning": false,
       "status_redirect_app": false
+    },
+  "craft_max": 
+        {
+      "idMax": "bd8c2e6db12ec71f",
+      "timer": "60"
     }
   
 }
