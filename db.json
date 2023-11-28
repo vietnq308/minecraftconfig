@@ -27,6 +27,17 @@
       "status": "true"
     }
   ],
+  "craft_max": [
+        {
+      "idMax": "bd8c2e6db12ec71f",
+      "timer": 60,
+      "note": "",
+      "pack": "",
+      "pe1": 120,
+      "pe2": 130,
+      "status": "true"
+    }
+  ]
   "craft3": 
         {
       "admob_app_open": "",
@@ -101,11 +112,5 @@
       
       "status_offline_warning": false,
       "status_redirect_app": false
-    },
-  "craft_max": 
-        {
-      "idMax": "bd8c2e6db12ec71f",
-      "timer": "60"
     }
-  
 }
