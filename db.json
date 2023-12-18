@@ -107,5 +107,5 @@
       "idMax": "f1e9402e8becdece",
       "timer": 60
     }
-  
+  "craft5_test":{"ironsourceDevKey":"1c705f2f5","openAdsAdmobId":"ca-app-pub-3940256099942544/9257395921","interAoaAdsAdmobId":"ca-app-pub-3940256099942544/1033173712","interMediationAdsAdmobId":"ca-app-pub-3940256099942544/8691691433","interApplovinId":"a7f8911a7c98b84d","interIronSourceId":"X","isAoaType":false,"interFakeAoaType":1,"interAdsType":1,"interAdsDelayTimer":15,"interAdsLoopTimer":60}
 }
